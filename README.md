@@ -10,7 +10,7 @@ Habt ihr weitere Vorschläge für neue Features, schreibt mir gerne eine Mail, h
 
 ## Fehlende Daten?
 
-Unter [Issues](https://github.com/jp-fan-app/data/issues) kannst du fehlende Daten hinzufügen. Diese werden auf Richtigkeit geprüft und dann zur App hinzugefügt.
+Daten können [hier](https://admin.jp-fan-app.de) von Moderatoren angelegt werden. Wenn du auch Daten anlegen und Zugagnsdaten haben möchtest, schreibe mir gerne eine Mail.
 
 ## iOS App
 
